@@ -3,12 +3,20 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: orangered;
     color: white;
+    background-color: orangered;;
+}
+.header-button:hover {
+    background-color: red;
+}
+.header {
+    background-color: orangered;
+    color:white;
 }
 ul li {
     float:left
 }
+
 ul li a {
     display: block;
     color: white;
@@ -18,5 +26,5 @@ ul li a {
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgrey;
+    background-color: white;
 }
