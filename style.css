@@ -4,7 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     color: white;
-    background-color: orangered;;
+    background-color: orangered;
 }
 .header-button:hover {
     background-color: red;
@@ -27,4 +27,11 @@ ul li a {
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
+}
+.searchbar {
+    border-style: solid;
+    border: 2px black;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 3px;
 }
