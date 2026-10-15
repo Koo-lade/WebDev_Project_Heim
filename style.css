@@ -35,6 +35,27 @@ body {
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
+    background-image: url("Images/car\ background.jpg");
+    background-color: rgba(255, 255, 255, 0.7);
+    background-blend-mode: lighten;
+    background-size: 100%;
+}
+p {
+    background-color: orangered;
+    border-style: solid;
+    border-radius: 1em;
+    border-color: orangered;
+    border: 5px;
+    padding: 1em;
+    color: white;
+}
+h1 {
+    background-color: orangered;
+    border-style: solid;
+    border-radius: 1em;
+    border-color: orangered;
+    padding: 3px;
+    color: white;
 }
 .searchbar {
     border-style: solid;
@@ -65,8 +86,9 @@ body {
     color:white;
     border-style: solid;
     border-width: 3px;
-    border-color: black;
+    border-color: orangered;
     border-radius:5px;
+    padding: 2px;
     text-align: center;
 }
 .carImg {
