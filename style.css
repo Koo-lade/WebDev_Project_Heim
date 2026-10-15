@@ -35,7 +35,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
-    background-image: url("Images/car\ background.jpg");
+    background-image: url("../WebDev_Project_Heim/Images/car\ background.jpg");
     background-color: rgba(255, 255, 255, 0.7);
     background-blend-mode: lighten;
     background-size: 100%;
