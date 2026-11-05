@@ -28,6 +28,7 @@ body {
     font-family: "Noto Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 100;
+    font-size: 1em;
     font-style: normal;
     background-image: url('../WebDev_Project_Heim/Images/car_background.jpg');
     background-color: rgba(255, 255, 255, 0.7);
@@ -42,6 +43,7 @@ p {
     border: 5px;
     padding: 1em;
     color: white;
+    text-align: left;
 }
 h1 {
     background-color: orangered;
