@@ -31,7 +31,6 @@ body {
     font-size: 1em;
     font-style: normal;
     background-image: url('../WebDev_Project_Heim/Images/car_background.jpg');
-    background-color: rgba(255, 255, 255, 0.7);
     background-blend-mode: lighten;
     background-size: 100%;
 }
